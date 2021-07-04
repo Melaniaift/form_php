@@ -1,4 +1,5 @@
 # CodeIgniter 4 Framework
+![image](https://user-images.githubusercontent.com/76125731/124398041-43212300-dd1c-11eb-8b61-3506474c6b42.png)
 
 ## What is CodeIgniter?
 
